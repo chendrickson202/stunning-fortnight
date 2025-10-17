@@ -1,0 +1,6 @@
+name = "policy-tracker"
+pages_build_output_dir = "dist"
+
+[[kv_namespaces]]
+binding = "LEGI_KV"
+id = "4dc181546d36402d8c68376b7a4c2646"
