@@ -1,5 +1,6 @@
 name = "policy-tracker"
 pages_build_output_dir = "dist"
+compatibility_date = "2025-10-17"
 
 [[kv_namespaces]]
 binding = "LEGI_KV"
